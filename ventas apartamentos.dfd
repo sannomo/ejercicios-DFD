@@ -1,0 +1,90 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'venta total apartamentos'
+4
+1
+25
+'por favor digite nombre'
+5
+1
+6
+nombre
+4
+1
+14
+'valor ventas'
+5
+1
+5
+valor
+7
+0
+1
+9
+valor<300
+7
+0
+1
+23
+valor>300 and valor<500
+7
+0
+1
+23
+valor<700 and valor>500
+13
+6
+2
+6
+venta 
+10
+valor*0.40
+5
+comis
+11
+valor+venta
+4
+1
+48
+'señor@ ', nombre,'su comision es de   : ',venta
+13
+13
+6
+2
+6
+venta 
+10
+valor*0.30
+5
+comis
+11
+valor+venta
+4
+1
+48
+'señor@ ', nombre,'su comision es de   : ',venta
+13
+13
+6
+2
+5
+venta
+10
+valor*0.20
+5
+comis
+11
+valor+venta
+4
+1
+48
+'señor@ ', nombre,'su comision es de   : ',venta
+13
+1

@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+93
+'este programa nos permite ver  nombre de cliente , valor de la compra, iva  y total a pagar'
+4
+1
+41
+'por favor digite el nombre del cliente' 
+5
+1
+7
+usuario
+4
+1
+44
+'por favor digite el valor del articulo 1 ' 
+5
+1
+4
+art1
+4
+1
+44
+'por favor digite el valor del articulo 2 ' 
+5
+1
+4
+art2
+4
+1
+44
+'por favor digite el valor del articulo 3 ' 
+5
+1
+4
+art3
+6
+3
+5
+valor
+14
+art1+art2+art3
+3
+iva
+10
+valor*0.19
+6
+vtotal
+9
+valor+iva
+4
+1
+103
+'el señor@ ',usuario,'debe pagar',valor,'mas iva de 19% , que es', iva,'para un valor total de:',vtotal
+1
